@@ -1,0 +1,11 @@
+c:\Users\sumanth.tirupati\Desktop\exp\Experiments\MyExp\bin\Debug\netcoreapp3.1\MyExp.exe
+c:\Users\sumanth.tirupati\Desktop\exp\Experiments\MyExp\bin\Debug\netcoreapp3.1\MyExp.deps.json
+c:\Users\sumanth.tirupati\Desktop\exp\Experiments\MyExp\bin\Debug\netcoreapp3.1\MyExp.runtimeconfig.json
+c:\Users\sumanth.tirupati\Desktop\exp\Experiments\MyExp\bin\Debug\netcoreapp3.1\MyExp.runtimeconfig.dev.json
+c:\Users\sumanth.tirupati\Desktop\exp\Experiments\MyExp\bin\Debug\netcoreapp3.1\MyExp.dll
+c:\Users\sumanth.tirupati\Desktop\exp\Experiments\MyExp\bin\Debug\netcoreapp3.1\MyExp.pdb
+c:\Users\sumanth.tirupati\Desktop\exp\Experiments\MyExp\obj\Debug\netcoreapp3.1\MyExp.csprojAssemblyReference.cache
+c:\Users\sumanth.tirupati\Desktop\exp\Experiments\MyExp\obj\Debug\netcoreapp3.1\MyExp.AssemblyInfoInputs.cache
+c:\Users\sumanth.tirupati\Desktop\exp\Experiments\MyExp\obj\Debug\netcoreapp3.1\MyExp.AssemblyInfo.cs
+c:\Users\sumanth.tirupati\Desktop\exp\Experiments\MyExp\obj\Debug\netcoreapp3.1\MyExp.dll
+c:\Users\sumanth.tirupati\Desktop\exp\Experiments\MyExp\obj\Debug\netcoreapp3.1\MyExp.pdb
